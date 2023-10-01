@@ -11,10 +11,10 @@
 ## 🛠 Technology Stack
 
 ### 🖥️ Programming Language
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Static Badge](https://img.shields.io/badge/Java-%23FFA514?style=for-the-badge&logo=Joplin)&nbsp;
-![](https://img.shields.io/badge/spring-%2311AB00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23FFA514?style=for-the-badge&logo=Joplin)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![spring](https://img.shields.io/badge/spring-%2311AB00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
 ### 🔬 Development Tools
